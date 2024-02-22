@@ -1,3 +1,3 @@
 # student-demo
 this is my first repository.<br>
-Author- Nikita Deore
+Author- Nikita Deore(student)
